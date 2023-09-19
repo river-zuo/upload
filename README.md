@@ -2,7 +2,9 @@
 
 Step 1:
 
-gcc puke.c
+# gcc puke.c
+
+gcc -std=c99 puke.c 
 
 Step 2:
 

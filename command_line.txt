@@ -1,0 +1,5 @@
+文件反转
+rev 反转列
+tac 反转行
+
+use(centos_7.9)
